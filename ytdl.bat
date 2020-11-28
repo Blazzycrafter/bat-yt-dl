@@ -33,5 +33,3 @@ set /p vid="link>>>"
 
 
 call youtube-dl.exe "%vid%"
-
-pause
